@@ -1,6 +1,6 @@
 # Syntax
   * [Let and Const](#let-and-const)
-    + [Rules for using `let` and `const`](#rules-for-using--let--and--const-)
+    + [Rules for using `let` and `const`](#rules-for-using-let-and-const)
     + [Use cases](#use-cases)
   * [Template Literals](#template-literals)
   * [Destructuring](#destructuring)
@@ -10,7 +10,7 @@
   * [For...of Loop](#forof-loop)
   * [Spread`...` Operator](#spread-operator)
     + [Combining arrays](#combining-arrays)
-  * [`...`Rest Parameter](#-rest-parameter)
+  * [`...`Rest Parameter](#rest-parameter)
     + [Variadic functions](#variadic-functions)
     
 
