@@ -8,9 +8,9 @@
     + [Destructuring values from an object](#destructuring-values-from-an-object)
   * [Object Literal Shorthand](#object-literal-shorthand)
   * [For...of Loop](#forof-loop)
-  * [Spread`...` Operator](#spread---operator)
+  * [Spread`...` Operator](#spread-operator)
     + [Combining arrays](#combining-arrays)
-  * [`...`Rest Parameter](#--rest-parameter)
+  * [`...`Rest Parameter](#-rest-parameter)
     + [Variadic functions](#variadic-functions)
     
 
